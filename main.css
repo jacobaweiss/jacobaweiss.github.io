@@ -1,0 +1,33 @@
+html {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Lora', serif;
+  color: #111111;
+}
+
+#title {
+  font-size: 5em;
+}
+
+#header {
+  font-size: 2.3em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+  font-size: 1.5em;
+}
+
+a {
+  text-decoration: none;
+  color: #dc143c;
+}
+
+a:hover {
+  text-decoration: underline;
+}
